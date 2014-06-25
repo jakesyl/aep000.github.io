@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            My Dev Blog
-tagline:          A bunch of random stuff I do With my life
+tagline:          A bunch of random stuff I do with my life.
 url:              http://aep000.github.io
 paginate:         1
 baseurl:          /
