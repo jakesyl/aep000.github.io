@@ -6,13 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            My Dev Blog
+tagline:          A bunch of random stuff I do With my life
+url:              http://aep000.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
+  name:           Alex
   url:            https://twitter.com/mdo
   email:          markdotto@gmail.com
 
